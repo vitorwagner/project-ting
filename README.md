@@ -1,10 +1,12 @@
-# Recipes App
+# TING - Trybe is not Google
 Projeto da [Trybe](https://www.betrybe.com/).
 
 ## 💻 Projeto
+Neste projeto foi implementado um algoritmo de indexação utilizando Python.
 
 ## 🚀 Tecnologias
 > Este projeto foi desenvolvido com as seguintes tecnologias:
+Python
 
 ## 💬 Contato
 
